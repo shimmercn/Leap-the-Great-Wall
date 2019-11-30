@@ -1,2 +1,3 @@
 ^https?://(www.)?google.cn url 302 https://www.google.com
 ^http?://(www.)?google.cn url 302 https://www.google.com
+^http?://(www.)?google.com.hk url 302 https://www.google.com
